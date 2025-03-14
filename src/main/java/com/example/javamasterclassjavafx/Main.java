@@ -29,7 +29,7 @@ public class Main extends Application {
 //        root.getChildren().add(greeting);
 
         stage.setTitle("Hello JavaFX!");
-        stage.setScene(new Scene(root, 700, 240));
+        stage.setScene(new Scene(root, 500, 275));
         stage.show();
     }
 
