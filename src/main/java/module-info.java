@@ -11,4 +11,7 @@ module com.example.javamasterclassjavafx {
 
     opens com.example.javamasterclassjavafx.EventHandling to javafx.fxml;
     exports com.example.javamasterclassjavafx.EventHandling;
+
+    opens com.example.javamasterclassjavafx.ToDoList to javafx.fxml;
+    exports com.example.javamasterclassjavafx.ToDoList;
 }

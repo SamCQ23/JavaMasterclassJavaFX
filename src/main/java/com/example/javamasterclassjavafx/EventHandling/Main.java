@@ -14,7 +14,7 @@ public class Main extends Application {
     public void start(Stage stage) throws IOException {
         Parent root = FXMLLoader.load(getClass().getResource("/com/example/javamasterclassjavafx/EventHandling.fxml"));
         stage.setTitle("Hello JavaFX!");
-        stage.setScene(new Scene(root, 800, 500));
+        stage.setScene(new Scene(root, 300, 200));
         stage.show();
     }
 
