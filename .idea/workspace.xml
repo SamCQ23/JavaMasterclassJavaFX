@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25206b63-d512-471f-8dd6-324a7ee13437" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/DialogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/toDoList.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/todoItemDialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/JavaFXApplication/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/JavaFXApplication/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/Application.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/EventHandling/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/EventHandling/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/EventHandling/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/EventHandling/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListItems.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListItems.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javamasterclassjavafx/ToDoList/dataModel/TodoItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/EventHandling.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/EventHandling.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/toDoList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/toDoList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/todoItemDialog.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/javamasterclassjavafx/todoItemDialog.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <recent name="C:\Users\samuel.clarke-quy\Desktop\A36\JavaMasterclassJavaFx\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.example.javamasterclassjavafx.ToDoList.Main">
+  <component name="RunManager" selected="Application.com.example.javamasterclassjavafx.JavaFXApplication.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.javamasterclassjavafx.Main" />
       <module name="JavaMasterclassJavaFx" />
@@ -80,6 +80,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.javamasterclassjavafx.EventHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.javamasterclassjavafx.JavaFXApplication.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.javamasterclassjavafx.JavaFXApplication.Main" />
+      <module name="JavaMasterclassJavaFx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.javamasterclassjavafx.JavaFXApplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.example.javamasterclassjavafx.JavaFXApplication.Main" />
         <item itemvalue="Application.com.example.javamasterclassjavafx.ToDoList.Main" />
         <item itemvalue="Application.com.example.javamasterclassjavafx.EventHandling.Main" />
         <item itemvalue="Application.com.example.javamasterclassjavafx.controls.Main" />

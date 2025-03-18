@@ -14,4 +14,7 @@ module com.example.javamasterclassjavafx {
 
     opens com.example.javamasterclassjavafx.ToDoList to javafx.fxml;
     exports com.example.javamasterclassjavafx.ToDoList;
+
+    opens com.example.javamasterclassjavafx.JavaFXApplication to javafx.fxml;
+    exports com.example.javamasterclassjavafx.JavaFXApplication;
 }
