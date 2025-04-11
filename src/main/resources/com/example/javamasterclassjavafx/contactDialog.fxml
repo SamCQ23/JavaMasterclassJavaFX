@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.*?>
 
 <DialogPane xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.example.javamasterclassjavafx.video459Challenge.ContactController">
+            fx:controller="com.example.javamasterclassjavafx.video459Challenge.dataModel.ContactController">
     <headerText>
         Fill in the information for the new Contact
     </headerText>

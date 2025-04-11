@@ -1,7 +1,7 @@
 package com.example.javamasterclassjavafx.video459Challenge;
 
 import com.example.javamasterclassjavafx.video459Challenge.dataModel.Contact;
-import com.example.javamasterclassjavafx.video459Challenge.dataModel.ContactData;
+import com.example.javamasterclassjavafx.video459Challenge.dataModel.ContactController;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.Alert;

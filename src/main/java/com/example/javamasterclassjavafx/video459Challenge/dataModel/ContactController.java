@@ -1,4 +1,4 @@
-package com.example.javamasterclassjavafx.video459Challenge;
+package com.example.javamasterclassjavafx.video459Challenge.dataModel;
 
 import com.example.javamasterclassjavafx.video459Challenge.dataModel.Contact;
 import javafx.fxml.FXML;

@@ -1,5 +1,6 @@
-package com.example.javamasterclassjavafx.video459Challenge.dataModel;
+package com.example.javamasterclassjavafx.video459Challenge;
 
+import com.example.javamasterclassjavafx.video459Challenge.dataModel.Contact;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
